@@ -4,7 +4,7 @@ Product [@jetpack-io](https://github.com/jetpack-io)
 
 * Formerly Product @airbnb + @microsoft
 * Wrangling #nix + #go for developer productivity
-* 🏗️ I primarilly work on [Devbox](https://github.com/jetpack-io/devbox)
+* 🏗️ I primarilly work on [Devbox](https://github.com/jetpack-io/devbox) and [Nixhub](https://nixhub.io/)
 * ✍️ Occasionally [blog](https://www.jetpack.io/blog/author/john/) about Devbox and Nix
 * 🐦 [Tweet @ me](https://twitter.com/jetpack_john) to get in touch
 
