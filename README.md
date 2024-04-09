@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Product [@jetpack-io](https://github.com/jetpack-io)
+Product [@Jetify](https://github.com/jetify-com)
 
 * Formerly Product @airbnb + @microsoft
 * Wrangling #nix + #go for developer productivity
-* 🏗️ I primarilly work on [Devbox](https://jetpack.io/devbox) and [Nixhub](https://nixhub.io/)
-* ✍️ Occasionally [blog](https://www.jetpack.io/blog/author/john/) about Devbox and Nix
+* 🏗️ I primarilly work on [Devbox](https://jetify.com/devbox) and [Nixhub](https://nixhub.io/)
+* ✍️ Occasionally [blog](https://www.jetify.com/blog/author/john/) about Devbox and Nix
 * 🐦 [Tweet @ me](https://twitter.com/jetpack_john) to get in touch
 
 <!--
